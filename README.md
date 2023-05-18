@@ -1,2 +1,1 @@
-# jogos
-Estudos Python - Alura Course
+# Estudos Python - Alura Course :)
