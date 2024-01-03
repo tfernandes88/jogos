@@ -1,6 +1,5 @@
-banana
-maça
-abacaxi
-melancia
-melao
-morango
+palavra
+ambulancia
+teste
+aviao
+thamara
